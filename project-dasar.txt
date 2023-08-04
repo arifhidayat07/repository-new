@@ -1,0 +1,3 @@
+hal yg harus dilakukan dalam belajar git
+-membuat dasar project comict di repository 
+=mengupload projek ke repository
